@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 I'm a second-year software engineering student.
 
 
