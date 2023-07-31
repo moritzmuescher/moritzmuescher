@@ -1,4 +1,4 @@
-<!-- # 👋 About Me: -->Y
+<!-- # 👋 About Me: -->
 # Second-year software engineering student
 
 
