@@ -1,5 +1,5 @@
-# 👋 About Me:
-I'm a second-year software engineering student.
+<!-- # 👋 About Me: -->Y
+# Second-year software engineering student
 
 
 # 💻 Tech Stack:
