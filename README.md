@@ -1,6 +1,6 @@
 <!-- # 👋 About Me: -->
 <div align="center">
-# 🎓 Second-year software engineering student
+<font size="5"> 🎓 Second-year software engineering student </font>
 </div>
 
 ## 💻 Tech Stack:
