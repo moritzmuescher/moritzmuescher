@@ -1,6 +1,6 @@
 <!-- # 👋 About Me: -->
 
-<h1 align="center">🎓 Second-year software engineering student</h1>
+<h1 align="center">🎓 Software engineering student</h1>
 <h2 align="center">⚒️ Tech Stack</h2>
 <br/>
 <div align="center">
