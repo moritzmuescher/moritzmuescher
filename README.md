@@ -4,8 +4,9 @@
 <h2 align="center">⚒️ Tech Stack</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,swift,html,css,php" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,c,java,mysql,postgresql,docker,git" /><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,swift,react,c" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,docker,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,php" /><br>
 </div>
 
 <br/>
