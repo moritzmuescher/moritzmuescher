@@ -1,10 +1,10 @@
 <!-- # 👋 About Me: -->
 
-<h1 align="center">🎓 Software engineering student</h1>
+<h1 align="center">🎓 3rd Year Software Engineering Student</h1>
 <h2 align="center">⚒️ Tech Stack</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,swift,react,c" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,swift,react,c" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,docker,git" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,php" /><br>
 </div>
